@@ -1,7 +1,7 @@
 import type { FormData } from '../types';
 
 const MAILGUN_DOMAIN = 'www.homewaterdealerform.com';
-const API_KEY = 'd7799a8127b6d8b67483af0e3438d72b-72e4a3d5-23fa794e';
+const API_KEY = 'd84ccf84652fa2f434ef8650ec77043f-72e4a3d5-ad0eac77';
 const API_URL = `https://api.mailgun.net/v3/${MAILGUN_DOMAIN}/messages`;
 
 // Authorized recipient for sandbox account
